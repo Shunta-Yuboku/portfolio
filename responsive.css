@@ -1,0 +1,184 @@
+@media(max-width:1024px){
+  h2 {
+    font-size: 25px;
+    letter-spacing: 1.2px;
+  }
+  h3,.black h3 {
+    font-size: 18px;
+  }
+  .text {
+    font-size: 16px;
+    line-height: 1.7em;
+  }
+  .text2 {
+    font-size: 12px;
+  }
+  .text3 {
+    font-size: 7px;
+  }
+  .title-text {
+    line-height: 1.5em;
+  }
+
+  /* ポップアップ画像表示 */
+  .whitebg {
+    width: 600px;
+    height: 800px;
+  }
+  .popup-img-area {
+    width: 500px;
+    height: 750px;
+  }
+
+  /* HOME */
+  #TITLE {
+    font-size: 30px;
+  }
+  /* ABOUT */
+  .about-left {
+    width: 100%;
+  }
+  .about-right {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .about-right h2,.about-right h3,.about-right p {
+    text-align: center;
+  }
+  /* SKILLS */
+  .skill {
+    width: 100%;
+    margin-bottom: 50px;
+    padding: 0 15px;
+  }
+  .skill p {
+    width: 85%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  /* SERVICES */
+  .service-illust {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  .service-text {
+    width: 100%;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .service-text h3 {
+    line-height: 1.7em;
+    margin-bottom: 10px;
+  }
+  .row2 {
+  flex-direction: column-reverse;
+  }
+  /* WORKS */
+  .work {
+    margin-bottom: 30px;
+  }
+  .work-title {
+    margin-bottom: 5px;
+  }
+  .comment {
+    margin-top: 5px;
+  }
+}
+
+
+@media(max-width:600px){
+  .wrapper {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  h2 {
+    font-size: 25px;
+  }
+  h3,.black h3 {
+    font-size: 16px;
+  }
+  .text {
+    font-size: 14px;
+  }
+  .text2 {
+    font-size: 10px;
+  }
+  .title-text {
+    font-size: 13px;
+    margin-top: 5px;
+  }
+  .skills,.services,.works,form {
+    margin-top: 30px;
+  }
+
+  /* ポップアップ画像表示 */
+  .whitebg {
+    width: 300px;
+    height: 450px;
+  }
+  .whitebg-inner {
+    padding: 25px;
+    position: relative;
+  }
+  .popup-img-area {
+    width: 250px;
+    height: 400px;
+  }
+
+  /* header */
+  header {
+    height: 50px;
+  }
+  .row li {
+    display: none;
+  }
+  .menu-icon {
+    display: block;
+  }
+  /* HOME */
+  #TITLE {
+    font-size: 22px;
+    letter-spacing: 1.5px;
+  }
+  .home-wrapper {
+    height: 500px;
+    padding: 250px 0;
+  }
+  /* ABOUT */
+  .image img {
+    height: 150px;
+    width: 110px;
+  }
+  /* SKILLS */
+  .illust {
+    text-align: center;
+    margin: 10px 0;
+  }
+  .skill-icon {
+    font-size: 4em;
+  }
+  /* SERVICES */
+  .image2 img {
+    height: 125px;
+  }
+  /* WORKS */
+  .work {
+    width: 100%;
+    padding: 0 50px;
+  }
+
+  /* CONTACT */
+  .form-box {
+    margin-bottom: 15px;
+  }
+  .form-box input,.form-box textarea {
+    width: 100%;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  .btn-box {
+    margin-top: 15px;
+  }
+
+}
