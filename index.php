@@ -29,7 +29,7 @@
   <header>
       <div class="header-right">
         <ul class="row">
-          <li href='#HOME'>HANAOKA</li>
+          <li href='#HOME'>YUBOKU</li>
           <li href='#ABOUT'>ABOUT</li>
           <li href='#SKILLS'>SKILLS</li>
           <li href='#SERVICES'>SERVICES</li>
