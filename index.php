@@ -29,7 +29,7 @@
   <header>
       <div class="header-right">
         <ul class="row">
-          <li href='#HOME'>HOM</li>
+          <li href='#HOME'>HOME</li>
           <li href='#ABOUT'>ABOUT</li>
           <li href='#SKILLS'>SKILLS</li>
           <li href='#SERVICES'>SERVICES</li>
